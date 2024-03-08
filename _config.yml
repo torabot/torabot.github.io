@@ -23,9 +23,9 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Ken Suzuki"
-  pronouns         : # example: "she/her"  
+  #pronouns         : # example: "she/her"  
   bio              : ""
-  location         : "Massachusetts"
+  #location         : "Massachusetts"
   employer         : "University of Massachusetts Amherst"
   uri              : # URL
   email            : "none@example.org" 
