@@ -1,12 +1,22 @@
 ---
-title: "Paper Title Number 1"
+title: "System configuration and navigation of a guide dog robot: Toward animal guide dog-level guiding work"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+permalink: /publication/2023-05-29-10160573
+excerpt: 'A robot guide dog has compelling advantages over animal guide dogs for its cost-effectiveness, the potential for mass production, and low maintenance burden. However, despite the long history of guide dog robot research, previous studies were conducted with little or no consideration of how the guide dog handler and the guide dog work as a team for navigation. To develop a robotic guiding system that genuinely benefits blind or visually impaired individuals, we performed qualitative research, including interviews with guide dog handlers, trainers, and first-hand blindfold walking experiences with various guide dogs. We build a collaborative indoor navigation scheme for a guide dog robot that includes preferred features such as speed and directional control. For collaborative navigation, we propose a semantic-aware local path planner that enables safe and efficient guiding work by utilizing semantic information about the environment and considering the handler's position and directional cues to determine the collision-free path. We evaluate our integrated robotic system by testing blindfolded walking in indoor settings and demonstrate guide dog-like navigation behavior by avoiding obstacles at typical gait speed (0.7m/s). The following demonstration video link includes an audio description: https://youtu.be/YxlcMeaL7GA'
 date: 2009-10-01
 venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+paperurl: 'https://ieeexplore.ieee.org/abstract/document/10160573'
+citation: '@INPROCEEDINGS{10160573,
+  author={Hwang, Hochul and Xia, Tim and Keita, Ibrahima and Suzuki, Ken and Biswas, Joydeep and Lee, Sunghoon I. and Kim, Donghyun},
+  booktitle={2023 IEEE International Conference on Robotics and Automation (ICRA)}, 
+  title={System Configuration and Navigation of a Guide Dog Robot: Toward Animal Guide Dog-Level Guiding Work}, 
+  year={2023},
+  volume={},
+  number={},
+  pages={9778-9784},
+  keywords={Legged locomotion;Mass production;Semantics;Collaboration;Dogs;Maintenance engineering;Collision avoidance},
+  doi={10.1109/ICRA48891.2023.10160573}}
+'
 ---
 
 The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
