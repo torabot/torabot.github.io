@@ -2,8 +2,7 @@
 title: "System configuration and navigation of a guide dog robot: Toward animal guide dog-level guiding work"
 collection: publications
 permalink: /publication/2023-05-29-10160573
-excerpt: 'A robot guide dog has compelling advantages over animal guide dogs for its cost-effectiveness, the potential for mass production, and low maintenance burden. However, despite the long history of guide dog robot research, previous studies were conducted with little or no consideration of how the guide dog handler and the guide dog work as a team for navigation. To develop a robotic guiding system that genuinely benefits blind or visually impaired individuals, we performed qualitative research, including interviews with guide dog handlers, trainers, and first-hand blindfold walking experiences with various guide dogs. We build a collaborative indoor navigation scheme for a guide dog robot that includes preferred features such as speed and directional control. For collaborative navigation, we propose a semantic-aware local path planner that enables safe and efficient guiding work by utilizing semantic information about the environment and considering the handler's position and directional cues to determine the collision-free path. We evaluate our integrated robotic system by testing blindfolded walking in indoor settings and demonstrate guide dog-like navigation behavior by avoiding obstacles at typical gait speed (0.7m/s). The following demonstration video link includes an audio description: https://youtu.be/YxlcMeaL7GA'
-date: 2009-10-01
+date: 2023-05-29
 venue: 'Journal 1'
 paperurl: 'https://ieeexplore.ieee.org/abstract/document/10160573'
 citation: '@INPROCEEDINGS{10160573,
