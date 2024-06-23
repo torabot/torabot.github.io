@@ -3,7 +3,7 @@ title: "System configuration and navigation of a guide dog robot: Toward animal 
 collection: publications
 permalink: /publication/2023-05-29-10160573
 date: 2023-05-29
-venue: 'Journal 1'
+venue: '2023 IEEE International Conference on Robotics and Automation (ICRA)'
 paperurl: 'https://ieeexplore.ieee.org/abstract/document/10160573'
 citation: '@INPROCEEDINGS{10160573,
   author={Hwang, Hochul and Xia, Tim and Keita, Ibrahima and Suzuki, Ken and Biswas, Joydeep and Lee, Sunghoon I. and Kim, Donghyun},
