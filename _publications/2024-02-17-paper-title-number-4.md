@@ -7,12 +7,12 @@ date: 2024-04-07
 venue: 'arXiv Preprint (Submitted to IROS 2024)'
 paperurl: 'https://arxiv.org/pdf/2404.05039'
 citation: '@misc{perera2024staccatoe,
-      title={StaccaToe: A Single-Leg Robot that Mimics the Human Leg and Toe}, 
-      author={Nisal Perera and Shangqun Yu and Daniel Marew and Mack Tang and Ken Suzuki and Aidan McCormack and Shifan Zhu and Yong-Jae Kim and Donghyun Kim},
-      year={2024},
-      eprint={2404.05039},
-      archivePrefix={arXiv},
-      primaryClass={id='cs.RO' full_name='Robotics' is_active=True alt_name=None in_archive='cs' is_general=False description='Roughly includes material in ACM Subject Class I.2.9.'}
+title={StaccaToe: A Single-Leg Robot that Mimics the Human Leg and Toe}, 
+author={Nisal Perera and Shangqun Yu and Daniel Marew and Mack Tang and Ken Suzuki and Aidan McCormack and Shifan Zhu and Yong-Jae Kim and Donghyun Kim},
+year={2024},
+eprint={2404.05039},
+archivePrefix={arXiv},
+primaryClass={id='cs.RO' full_name='Robotics' is_active=True alt_name=None in_archive='cs' is_general=False description='Roughly includes material in ACM Subject Class I.2.9.'}
 }'
 ---
 
