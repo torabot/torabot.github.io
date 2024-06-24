@@ -1,12 +1,19 @@
 ---
-title: "Paper Title Number 4"
+title: "StaccaToe: A Single-Leg Robot that Mimics the Human Leg and Toe"
 collection: publications
 permalink: /publication/2024-02-17-paper-title-number-4
-excerpt: 'This paper is about fixing template issue #693.'
-date: 2024-02-17
-venue: 'GitHub Journal of Bugs'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
+excerpt: 'We introduce StaccaToe, a human-scale, electric motor-powered single-leg robot designed to rival the agility of human locomotion through two distinctive attributes: an actuated toe and a co-actuation configuration inspired by the human leg. Leveraging the foundational design of HyperLeg's lower leg mechanism, we develop a stand-alone robot by incorporating new link designs, custom-designed power electronics, and a refined control system. Unlike previous jumping robots that rely on either special mechanisms (e.g., springs and clutches) or hydraulic/pneumatic actuators, StaccaToe employs electric motors without energy storage mechanisms. This choice underscores our ultimate goal of developing a practical, high-performance humanoid robot capable of human-like, stable walking as well as explosive dynamic movements. In this paper, we aim to empirically evaluate the balance capability and the exertion of explosive ground reaction forces of our toe and co-actuation mechanisms. Throughout extensive hardware and controller development, StaccaToe showcases its control fidelity by demonstrating a balanced tip-toe stance and dynamic jump. This study is significant for three key reasons: 1) StaccaToe represents the first human-scale, electric motor-driven single-leg robot to execute dynamic maneuvers without relying on specialized mechanisms; 2) our research provides empirical evidence of the benefits of replicating critical human leg attributes in robotic design; and 3) we explain the design process for creating agile legged robots, the details that have been scantily covered in academic literature.'
+date: 2024-04-07
+venue: 'arXiv Preprint (Submitted to IROS 2024)'
+paperurl: 'https://arxiv.org/pdf/2404.05039'
+citation: '@misc{perera2024staccatoe,
+      title={StaccaToe: A Single-Leg Robot that Mimics the Human Leg and Toe}, 
+      author={Nisal Perera and Shangqun Yu and Daniel Marew and Mack Tang and Ken Suzuki and Aidan McCormack and Shifan Zhu and Yong-Jae Kim and Donghyun Kim},
+      year={2024},
+      eprint={2404.05039},
+      archivePrefix={arXiv},
+      primaryClass={id='cs.RO' full_name='Robotics' is_active=True alt_name=None in_archive='cs' is_general=False description='Roughly includes material in ACM Subject Class I.2.9.'}
+}'
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+We introduce StaccaToe, a human-scale, electric motor-powered single-leg robot designed to rival the agility of human locomotion through two distinctive attributes: an actuated toe and a co-actuation configuration inspired by the human leg. Leveraging the foundational design of HyperLeg's lower leg mechanism, we develop a stand-alone robot by incorporating new link designs, custom-designed power electronics, and a refined control system. Unlike previous jumping robots that rely on either special mechanisms (e.g., springs and clutches) or hydraulic/pneumatic actuators, StaccaToe employs electric motors without energy storage mechanisms. This choice underscores our ultimate goal of developing a practical, high-performance humanoid robot capable of human-like, stable walking as well as explosive dynamic movements. In this paper, we aim to empirically evaluate the balance capability and the exertion of explosive ground reaction forces of our toe and co-actuation mechanisms. Throughout extensive hardware and controller development, StaccaToe showcases its control fidelity by demonstrating a balanced tip-toe stance and dynamic jump. This study is significant for three key reasons: 1) StaccaToe represents the first human-scale, electric motor-driven single-leg robot to execute dynamic maneuvers without relying on specialized mechanisms; 2) our research provides empirical evidence of the benefits of replicating critical human leg attributes in robotic design; and 3) we explain the design process for creating agile legged robots, the details that have been scantily covered in academic literature. 
