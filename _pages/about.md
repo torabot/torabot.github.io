@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
+## About me
 ![StaccaToe squatting](/images/staccatoe_squat.png){: .align-right width="300px"}
 I am a fourth-year undergraduate Mechanical Engineering major at the University of Massachusetts Amherst (UMass Amherst). I am an Undergraduate Student at [DARoS Lab](https://www.umass.edu/robotics/daros)  supervised by Professor Donghyun Kim, where I am developing a custom guide dog robot. I am also an Undergraduate Student at [MRRL](https://www.umass.edu/robotics/mrrl) supervised by Professor Frank Sup, where I am integrating robotics and engineering in nursing as a part of the [Elaine Marieb Center for Nursing & Engineering Innovation](https://www.umass.edu/marieb-nurse-engineer/).
 
