@@ -1,9 +1,9 @@
 ---
 title: "StaccaToe: A Single-Leg Robot that Mimics the Human Leg and Toe"
 collection: publications
-permalink: /publication/2024-04-97-staccatoe
+permalink: /publication/2024-04-07-staccatoe
 date: 2024-04-07
-venue: 'arXiv Preprint, Submitted to IROS 2024'
+venue: 'IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2024)'
 paperurl: 'https://arxiv.org/pdf/2404.05039'
 citation: '@article{perera2024staccatoe,
   title={StaccaToe: A Single-Leg Robot that Mimics the Human Leg and Toe},
