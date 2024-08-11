@@ -1,6 +1,6 @@
 ---
 title: "Shape Memory Alloy Actuation Test Bed"
-excerpt: "Short description of portfolio item number 2 <br/><img src='/images/sma_testbed.jpg' width='400'>"
+excerpt: "Shape memory alloy actuator testbed for use with temperature controlled water <br/><img src='/images/sma_testbed.jpg' width='400'>"
 collection: portfolio
 ---
 
