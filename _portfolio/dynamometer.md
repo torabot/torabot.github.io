@@ -1,6 +1,6 @@
 ---
 title: "Dynamometer"
-excerpt: "Device for measuring the actuator characteristics of BLDC motors.<br/><img src='/images/dynamometer.jpg'>"
+excerpt: "Device for measuring the actuator characteristics of BLDC motors.<br/><img src='/images/dynamometer.jpg' width='300'>"
 collection: portfolio
 ---
 
