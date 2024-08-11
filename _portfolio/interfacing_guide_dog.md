@@ -1,6 +1,6 @@
 ---
 title: "Speed Control Interface for a Guide Dog Robot"
-excerpt: "Hardware for blind & low vision individuals to interface with a guide dog robot.<center><br/><img src='/images/cybathlon_guide_dog.png' width='300'><center>"
+excerpt: "Hardware for blind & low vision individuals to interface with a guide dog robot. <br/><img src='/images/cybathlon_guide_dog.png' width='300'>"
 collection: portfolio
 ---
 
@@ -8,4 +8,4 @@ I designed a speed control interface for the guide dog robot, Unitree Go 1, used
 
 [Conference Paper](https://ieeexplore.ieee.org/document/10160573) and [Demo Video](https://youtu.be/9Y7Gvbw0qr4)
 
-<center><br/><img src='/images/cybathlon_guide_dog.png' width='300'><center>
+<center><br/><img src='/images/cybathlon_guide_dog.png' width='500'><center>
