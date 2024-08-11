@@ -1,6 +1,6 @@
 ---
 title: "Shape Memory Alloy Actuation Test Bed"
-excerpt: "Short description of portfolio item number 2 <br/><img src='/images/sma_testbed.jpg width='300'>"
+excerpt: "Short description of portfolio item number 2 <br/><img src='/images/sma_testbed.jpg' width='500'>"
 collection: portfolio
 ---
 
