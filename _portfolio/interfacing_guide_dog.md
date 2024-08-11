@@ -1,6 +1,6 @@
 ---
 title: "Speed Control Interface for a Guide Dog Robot"
-excerpt: "Hardware for blind & low vision individuals to interface with a guide dog robot.<br/><img src='/images/cybathlon_guide_dog.png width='300'>"
+excerpt: "Hardware for blind & low vision individuals to interface with a guide dog robot.<br/><img src='/images/cybathlon_guide_dog.png' width='300'>"
 collection: portfolio
 ---
 
