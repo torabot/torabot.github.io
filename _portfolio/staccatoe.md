@@ -8,4 +8,4 @@ I helped develop StaccaToe, a single-leg robot that mimics the human leg and toe
 
 [Conference Paper](https://arxiv.org/pdf/2404.05039) and [Demo Video](https://youtu.be/jZwrF528Fg0)
 
-<center><br/><img src='/images/staccatoe_standing.png' width='500'><center>
+<center><br/><img src='/images/staccatoe_standing.png' width='300'><center>
