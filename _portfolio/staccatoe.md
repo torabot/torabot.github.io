@@ -1,6 +1,6 @@
 ---
 title: "StaccaToe"
-excerpt: "A human-sized one legged robot with toe actuation.<br/><img src='/images/staccatoe_standing.png' width='100'>"
+excerpt: "A human-sized one legged robot with toe actuation.<br/><img src='/images/staccatoe_standing.png' width='200'>"
 collection: portfolio
 ---
 
