@@ -1,5 +1,5 @@
 ---
-title: "Soft Gripper with Finger Tips"
+title: "Soft Gripper with Rigid Finger Tips"
 excerpt: "UMI-inspired gripper for both power grasps and pinching.<br/><img src='/images/gripper.jpg' width='400'>"
 collection: portfolio
 ---
