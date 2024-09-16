@@ -1,6 +1,6 @@
 ---
 title: "Vivo"
-excerpt: "Specialized Quadruped Robotic Guide Dog"
+excerpt: "Specialized quadruped robot guide dog"
 collection: portfolio
 ---
 

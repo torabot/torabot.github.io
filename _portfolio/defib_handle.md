@@ -1,6 +1,6 @@
 ---
 title: "Defibrillator Handle for Emergency Department & Trauma Center"
-excerpt: "A medical grade handle for the Emergency Department & Trauma Center at Baystate Medical Center (patent pending)"
+excerpt: "A medical grade handle for the Emergency Department & Trauma Center at Baystate Medical Center. (patent pending)"
 collection: portfolio
 ---
 
