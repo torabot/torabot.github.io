@@ -1,6 +1,6 @@
 ---
 title: "Vivo, Guide Dog Robot"
-excerpt: "World's First Specialized Quadruped Robotic Guide Dog"
+excerpt: "Specialized Quadruped Robotic Guide Dog"
 collection: portfolio
 ---
 
