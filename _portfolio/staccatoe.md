@@ -10,7 +10,7 @@ Additionally, I developed a cable management system for the robot by designing 3
 
 This work was published to 2024 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS).
 
-<center><br/><img src='/images/staccatoe_standing.png' width='600'><center>
+<center><br/><img src='/images/staccatoe_standing.png' width='200'><center>
 [![IROS 2024 Video](https://img.youtube.com/vi/jZwrF528Fg0/0.jpg)](https://www.youtube.com/watch?v=jZwrF528Fg0)
 
 [Conference Paper](https://arxiv.org/pdf/2404.05039) and [Demo Video](https://youtu.be/jZwrF528Fg0)
