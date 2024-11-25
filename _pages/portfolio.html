@@ -12,4 +12,5 @@ author_profile: true
 {% assign sorted_posts = site.portfolio | sort: 'title' | reverse %}
 {% for post in sorted_posts %}
   {% include archive-single.html %}
+  <hr> <!-- This adds a simple horizontal line divider -->
 {% endfor %}
