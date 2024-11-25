@@ -4,7 +4,7 @@ excerpt: "A human-sized one legged robot with toe actuation.<br/><img src='/imag
 collection: portfolio
 ---
 
-I helped develop StaccaToe, a single-leg robot that mimics the human leg and toe at the Dynamic and Autonomous Robotic Systems (DARoS) Lab in UMass Amherst. For this project, I created motor brackets for the abduction/adduction motor and various body components. Utilizing a topology optimization process via Ansys Workbench, I reduced the mass of the motor brackets from their original design.
+I helped develop StaccaToe, a single-leg robot that mimics the human leg and toe at the UMass Amherst Dynamic and Autonomous Robotic Systems (DARoS) Lab. For this project, I created motor brackets for the abduction/adduction motor and various body components. Utilizing a topology optimization process via Ansys Workbench, I reduced the mass of the motor brackets from their original design.
 
 Additionally, I developed a cable management system for the robot by designing 3D printed screw-on cable holders that are strategically placed at critical points to ensure reliable connectivity and prevent entanglement.
 
