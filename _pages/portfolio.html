@@ -4,11 +4,14 @@ title: "Portfolio"
 permalink: /portfolio/
 author_profile: true
 ---
+  <div class="wordwrap">Click on title heading for details</a>.</div>
+
 
 {% include base_path %}
 
 {% assign sorted_posts = site.portfolio | sort: 'title' | reverse %}
 {% for post in sorted_posts %}
   {% include archive-single.html %}
+  <hr> <!-- This adds a simple horizontal line divider -->
   <hr> <!-- This adds a simple horizontal line divider -->
 {% endfor %}
