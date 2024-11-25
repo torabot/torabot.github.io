@@ -4,13 +4,25 @@ title: "Portfolio"
 permalink: /portfolio/
 author_profile: true
 ---
-  <div class="wordwrap">Click on title heading for details</a>.</div>
 
+<div class="wordwrap">Welcome to my portfolio! Feel free to click on any of the headings for details.</div>
+
+<!-- Table of Contents -->
+<div class="toc">
+  <h2>Table of Contents</h2>
+  <ul>
+    {% assign sorted_posts = site.portfolio | sort: 'title' | reverse %}
+    {% for post in sorted_posts %}
+      <li><a href="#{{ post.title | slugify }}">{{ post.title }}</a></li>
+    {% endfor %}
+  </ul>
+</div>
 
 {% include base_path %}
 
-{% assign sorted_posts = site.portfolio | sort: 'title' | reverse %}
 {% for post in sorted_posts %}
-  {% include archive-single.html %}
+  <div id="{{ post.title | slugify }}">
+    {% include archive-single.html %}
+  </div>
   <hr>
 {% endfor %}
