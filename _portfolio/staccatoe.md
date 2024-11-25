@@ -1,5 +1,5 @@
 ---
-title: "StaccaToe"
+title: "StaccaToe (Single Leg Hopping Robot)"
 excerpt: "A human-sized one legged robot with toe actuation.<br/><img src='/images/staccatoe_standing.png' width='200'>"
 collection: portfolio
 ---
