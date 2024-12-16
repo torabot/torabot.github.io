@@ -8,4 +8,4 @@ Under the supervision of [Professor Donghyun Kim](https://www.umass.edu/robotics
 
 [Workshop Paper](https://arxiv.org/pdf/2409.19778)
 
-<center><br/><img src='/images/vivo.png' width='200'><center>
+<center><br/><img src='/images/vivo.png' width='600'><center>
