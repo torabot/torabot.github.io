@@ -10,4 +10,6 @@ The gripper's fingers were 3D printed using TPU and PLA, with the rigid fingers 
 
 Skills used: OnShape, Arduino, 3D printing
 
+[Independent Study Report](https://drive.google.com/file/d/1HNgHZydic3L30_SBLgZv8H3V1nX4wIlm/view?usp=drive_link)
+
 <center><br/><img src='/images/gripper.jpg' width='500'><center>
