@@ -47,20 +47,20 @@ education:
 work:
   - position: Undergraduate Research Assistant
     company_name: DARoS Lab @ UMass Amherst
-    company_url: ''
+    company_url: 'https://www.umass.edu/robotics/daros'
     company_logo: ''
     date_start: 2022-05-23
     date_end: 2025-05-29
     summary:
   - position: Core Intern
-    company_name: Elaine Marieb Center for Nursing and Engineering Innovation
-    company_url: ''
+    company_name: Elaine Marieb Center for Nursing and Engineering Innovation (UMass Amherst)
+    company_url: 'https://www.umass.edu/marieb-nurse-engineer/'
     company_logo: ''
     date_start: 2024-06-03
     date_end: 2025-08-09
   - position: Robotics Research Intern
     company_name: OMRON SINIC X Corporation
-    company_url: ''
+    company_url: 'https://www.omron.com/sinicx/en/'
     company_logo: ''
     date_start: 2023-06-01
     date_end: 2025-08-31
