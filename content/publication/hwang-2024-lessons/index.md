@@ -1,0 +1,16 @@
+---
+title: Lessons Learned from Developing a Human-Centered Guide Dog Robot for Mobility
+  Assistance
+authors:
+- Hochul Hwang
+- Ken Suzuki
+- Nicholas A Giudice
+- Joydeep Biswas
+- Sunghoon Ivan Lee
+- Donghyun Kim
+date: '2024-01-01'
+publishDate: '2025-07-09T04:52:39.676537Z'
+publication_types:
+- article-journal
+publication: '*arXiv preprint arXiv:2409.19778*'
+---
