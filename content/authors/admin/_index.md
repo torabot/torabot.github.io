@@ -17,7 +17,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: MSE Robotics Student at UPenn
+role: MSE Robotics Student
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
