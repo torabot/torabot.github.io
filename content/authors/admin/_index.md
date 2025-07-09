@@ -44,7 +44,7 @@ interests:
 education:
   - area: BS Mechanical Engineering
     institution: University of Massachusetts Amherst
-      date_start: 2021-09-07
+    date_start: 2021-09-07
     date_end: 2020-05-19
     summary: |
  
