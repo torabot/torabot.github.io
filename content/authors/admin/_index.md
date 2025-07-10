@@ -41,7 +41,7 @@ education:
   - area: B.S. in Mechanical Engineering
     institution: University of Massachusetts Amherst
     date_start: 2021-09-07
-    date_end: 2020-05-19
+    date_end: 2025-05-19
     summary: |
   - area: M.S.E. in Robotics
     institution: University of Pennsylvania
