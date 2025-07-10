@@ -10,7 +10,6 @@ authors:
 - Shifan Zhu
 - Yong-Jae Kim
 - Donghyun Kim
-date: '2024-01-01'
 publishDate: '2025-07-09T05:13:48.820447Z'
 publication_types:
 - paper-conference
