@@ -61,13 +61,13 @@ work:
     company_url: 'https://www.umass.edu/marieb-nurse-engineer/'
     company_logo: ''
     date_start: 2024-06-03
-    date_end: 2025-08-09
+    date_end: 2024-08-09
   - position: Robotics Research Intern
     company_name: OMRON SINIC X Corporation
     company_url: 'https://www.omron.com/sinicx/en/'
     company_logo: ''
     date_start: 2023-06-01
-    date_end: 2025-08-31
+    date_end: 2023-08-31
 
 ---
 
