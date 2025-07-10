@@ -17,4 +17,13 @@ publication: '*2023 IEEE International Conference on Robotics and Automation (IC
 image:
   preview_only: false
   filename: preview.gif
+
+url_pdf: ''
+url_code: ''
+url_dataset: ''
+url_poster: ''
+url_project: ''
+url_slides: ''
+url_source: ''
+url_video: ''
 ---
