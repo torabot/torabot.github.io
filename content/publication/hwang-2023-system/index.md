@@ -14,4 +14,6 @@ publishDate: '2025-07-09T05:13:48.805838Z'
 publication_types:
 - paper-conference
 publication: '*2023 IEEE International Conference on Robotics and Automation (ICRA)*'
+image:
+  preview_only: false
 ---
