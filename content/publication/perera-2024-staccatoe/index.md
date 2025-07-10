@@ -10,7 +10,7 @@ authors:
 - Shifan Zhu
 - Yong-Jae Kim
 - Donghyun Kim
-publishDate: '2025-07-09T05:13:48.820447Z'
+date: '2024-10-14'
 publication_types:
 - paper-conference
 publication: '*2024 IEEE/RSJ International Conference on Intelligent Robots and Systems

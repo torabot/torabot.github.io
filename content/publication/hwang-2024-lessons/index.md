@@ -8,8 +8,7 @@ authors:
 - Joydeep Biswas
 - Sunghoon Ivan Lee
 - Donghyun Kim
-date: '2024-01-01'
-publishDate: '2025-07-09T05:13:48.832325Z'
+date: '2024-09-29'
 publication_types:
 - article-journal
 publication: '*arXiv preprint arXiv:2409.19778*'
