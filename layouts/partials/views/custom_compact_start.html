@@ -1,18 +1,17 @@
-{{/* filepath: layouts/partials/views/compact.html */}}
 {{- range .Pages }}
-  <div class="publication-item" style="display: flex; align-items: center; margin-bottom: 1rem;">
+  <div style="margin-bottom: 1rem; display: flex; align-items: center;">
     {{ with .Params.image.filename }}
       <img src="{{ . }}" alt="Publication image" style="max-width: 60px; margin-right: 1rem;">
     {{ end }}
     <div>
       <a href="{{ .RelPermalink }}"><strong>{{ .Title }}</strong></a>
       {{ with .Params.authors }}
-        <div class="publication-authors" style="font-size: 0.95em; color: #666;">
+        <div style="font-size: 0.95em; color: #666;">
           {{ delimit . ", " }}
         </div>
       {{ end }}
       {{ with .Date }}
-        <div class="publication-date" style="font-size: 0.85em; color: #aaa;">
+        <div style="font-size: 0.85em; color: #aaa;">
           {{ .Format "2006" }}
         </div>
       {{ end }}
