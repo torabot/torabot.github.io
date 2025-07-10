@@ -46,7 +46,7 @@ education:
   - area: MSE Robotics
     institution: University of Pennsylvania
     date_start: 2025-09-01
-    date_end: "Present"
+    date_end: ""
  
 work:
   - position: Undergraduate Research Assistant

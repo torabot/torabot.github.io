@@ -46,7 +46,7 @@ sections:
           - publication
         exclude_featured: false
     design:
-      view: custom_compact
+      view: custom_compact.start
   # - block: collection
   #   id: news
   #   content:
