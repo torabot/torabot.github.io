@@ -46,7 +46,7 @@ sections:
           - publication
         exclude_featured: false
     design:
-      view: compact
+      view: card
   # - block: collection
   #   id: news
   #   content:
