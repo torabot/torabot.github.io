@@ -13,7 +13,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: MSE Robotics Student
+role: M.S.E. Robotics Student
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
@@ -74,6 +74,6 @@ work:
 ## About Me
 Hello! I am Ken Suzuki, a Master's student at the University of Pennsylvania GRASP Lab. I graduated with a B.S. in Mechanical Engineering from the University of Massachusetts Amherst (UMass Amherst) in May 2025.
 
-During most of my time at UMass Amherst, I worked on mechanical design for legged robots at the DARoS Lab, under the supervision of Professor Donghyun Kim.
+During most of my time at UMass Amherst, I worked on mechanical design for legged robots at the DARoS Lab under the supervision of Professor Donghyun Kim.
 
 I previously worked as a Research Intern at the Robotics Group of OMRON SINIC X Corporation during the summer of 2023. I was supervised by Dr. Kazutoshi Tanaka and Dr. Masashi Hamaya on the development of a faster shape memory alloy actuator.
