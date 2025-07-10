@@ -18,7 +18,7 @@ image:
   preview_only: false
   filename: preview.gif
 
-url_pdf: ''
+url_pdf: 'https://ieeexplore.ieee.org/abstract/document/10160573'
 url_code: ''
 url_dataset: ''
 url_poster: ''
