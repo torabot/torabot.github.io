@@ -16,4 +16,5 @@ publication_types:
 publication: '*2023 IEEE International Conference on Robotics and Automation (ICRA)*'
 image:
   preview_only: false
+  filename: preview.gif
 ---

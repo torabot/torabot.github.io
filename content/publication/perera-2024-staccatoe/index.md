@@ -16,4 +16,7 @@ publication_types:
 - paper-conference
 publication: '*2024 IEEE/RSJ International Conference on Intelligent Robots and Systems
   (IROS)*'
+image:
+  preview_only: false
+  filename: preview.gif
 ---
