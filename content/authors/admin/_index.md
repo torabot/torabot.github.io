@@ -38,12 +38,12 @@ interests:
   - Control Systems
 
 education:
-  - area: BS Mechanical Engineering
+  - area: B.S. in Mechanical Engineering
     institution: University of Massachusetts Amherst
     date_start: 2021-09-07
     date_end: 2020-05-19
     summary: |
-  - area: MSE Robotics
+  - area: M.S.E. in Robotics
     institution: University of Pennsylvania
     date_start: 2025-09-01
     date_end: ""
