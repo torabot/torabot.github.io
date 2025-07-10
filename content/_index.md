@@ -46,8 +46,7 @@ sections:
           - publication
         exclude_featured: false
     design:
-      view: article-grid
-      columns: 2
+      view: compact
   # - block: collection
   #   id: news
   #   content:
